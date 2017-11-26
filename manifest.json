@@ -1,0 +1,22 @@
+{
+  "name": "HEIDI-CALC",
+  "short_name": "HEIDI-CALC",
+  "theme_color": "#292f36",
+  "background_color": "#1c2128",
+  "display": "standalone",
+  "Scope": "../calculator/.",
+  "start_url": "/calculator/",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "icon192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
